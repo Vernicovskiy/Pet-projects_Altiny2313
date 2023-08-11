@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\T0_Match_Reset</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</FILE><LINE>44</LINE></init>
+  <T0_Ovr><FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</FILE><LINE>153</LINE></T0_Ovr>
+  <T0_capt_A><FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</FILE><LINE>135</LINE></T0_capt_A>
+  <T0_capt_B><FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</FILE><LINE>143</LINE></T0_capt_B>
+  <MAIN><FILE>C:\AVR_PROJECT\T0_Match_Reset\T0_Match_Reset.asm</FILE><LINE>125</LINE></MAIN>
+ </LABELS>
+</ASSEMBLER_INFO>

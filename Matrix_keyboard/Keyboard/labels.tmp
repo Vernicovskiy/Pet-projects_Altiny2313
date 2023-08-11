@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Keyboard</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Keyboard\Keyboard.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Keyboard\Keyboard.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Keyboard\Keyboard.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>39</LINE></init>
+  <main><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>55</LINE></main>
+  <Keyboard><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>61</LINE></Keyboard>
+  <Ch_pin><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>87</LINE></Ch_pin>
+  <COL_2><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>67</LINE></COL_2>
+  <COL_3><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>73</LINE></COL_3>
+  <COL_4><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>79</LINE></COL_4>
+  <Exit_Col><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>84</LINE></Exit_Col>
+  <LINE_4><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>98</LINE></LINE_4>
+  <LINE_3><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>102</LINE></LINE_3>
+  <LINE_2><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>106</LINE></LINE_2>
+  <LINE_1><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>110</LINE></LINE_1>
+  <No_BUT><FILE>C:\AVR_PROJECT\Keyboard\Keyboard.asm</FILE><LINE>113</LINE></No_BUT>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\External_Interrupts_Practice</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</FILE><LINE>45</LINE></init>
+  <_INT0><FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</FILE><LINE>106</LINE></_INT0>
+  <_INT1><FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</FILE><LINE>102</LINE></_INT1>
+  <_PCI><FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</FILE><LINE>98</LINE></_PCI>
+  <main><FILE>C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm</FILE><LINE>94</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>

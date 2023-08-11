@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>c:\AVR_PROJECT\Analog_Comporator</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.asm</FILE><LINE>45</LINE></init>
+  <Comparator><FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.asm</FILE><LINE>99</LINE></Comparator>
+  <MAIN><FILE>c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.asm</FILE><LINE>92</LINE></MAIN>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\Dynamic_display\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\Dynamic_display\Dynamic_display.hex" -d "C:\AVR_PROJECT\Dynamic_display\Dynamic_display.obj" -e "C:\AVR_PROJECT\Dynamic_display\Dynamic_display.eep" -m "C:\AVR_PROJECT\Dynamic_display\Dynamic_display.map" "C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm"

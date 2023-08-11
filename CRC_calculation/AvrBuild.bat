@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\CRC_calculation\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\CRC_calculation\CRC_calculation.hex" -d "C:\AVR_PROJECT\CRC_calculation\CRC_calculation.obj" -e "C:\AVR_PROJECT\CRC_calculation\CRC_calculation.eep" -m "C:\AVR_PROJECT\CRC_calculation\CRC_calculation.map" "C:\AVR_PROJECT\CRC_calculation\CRC_calculation.asm"

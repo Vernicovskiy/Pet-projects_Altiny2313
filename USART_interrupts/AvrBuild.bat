@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\USART_interrupts\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\USART_interrupts\USART_interrupts.hex" -d "C:\AVR_PROJECT\USART_interrupts\USART_interrupts.obj" -e "C:\AVR_PROJECT\USART_interrupts\USART_interrupts.eep" -m "C:\AVR_PROJECT\USART_interrupts\USART_interrupts.map" "C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm"

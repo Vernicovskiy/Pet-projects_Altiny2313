@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\External_Interrupts</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>107</LINE></init>
+  <Intr_0><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>213</LINE></Intr_0>
+  <Intr_1><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>185</LINE></Intr_1>
+  <main><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>173</LINE></main>
+  <VD_ON><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>177</LINE></VD_ON>
+  <VD_OFF><FILE>C:\AVR_PROJECT\External_Interrupts\External_Interrupts.asm</FILE><LINE>175</LINE></VD_OFF>
+ </LABELS>
+</ASSEMBLER_INFO>

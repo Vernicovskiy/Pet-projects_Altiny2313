@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\Paired_Registers\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\Paired_Registers\Paired_Registers.hex" -d "C:\AVR_PROJECT\Paired_Registers\Paired_Registers.obj" -e "C:\AVR_PROJECT\Paired_Registers\Paired_Registers.eep" -m "C:\AVR_PROJECT\Paired_Registers\Paired_Registers.map" "C:\AVR_PROJECT\Paired_Registers\Paired_Registers.asm"

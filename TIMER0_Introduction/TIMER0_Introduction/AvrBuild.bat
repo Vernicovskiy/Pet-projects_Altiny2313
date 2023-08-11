@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\TIMER0_Introduction\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\TIMER0_Introduction\TIMER0_Introduction.hex" -d "C:\AVR_PROJECT\TIMER0_Introduction\TIMER0_Introduction.obj" -e "C:\AVR_PROJECT\TIMER0_Introduction\TIMER0_Introduction.eep" -m "C:\AVR_PROJECT\TIMER0_Introduction\TIMER0_Introduction.map" "C:\AVR_PROJECT\TIMER0_Introduction\TIMER0_Introduction.asm"

@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\EEPROM\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\EEPROM\EEPROM.hex" -d "C:\AVR_PROJECT\EEPROM\EEPROM.obj" -e "C:\AVR_PROJECT\EEPROM\EEPROM.eep" -m "C:\AVR_PROJECT\EEPROM\EEPROM.map" "C:\AVR_PROJECT\EEPROM\EEPROM.asm"

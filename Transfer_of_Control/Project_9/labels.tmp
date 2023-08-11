@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Project_9</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_9\Project_9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Project_9\Project_9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_9\Project_9.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <other_branch><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>25</LINE></other_branch>
+  <next_step_program><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>20</LINE></next_step_program>
+  <next_action_><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>29</LINE></next_action_>
+  <action_1><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>38</LINE></action_1>
+  <action_2><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>34</LINE></action_2>
+  <next_action><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>42</LINE></next_action>
+  <action_3><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>48</LINE></action_3>
+  <_next_action><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>52</LINE></_next_action>
+  <press_button_4><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>66</LINE></press_button_4>
+  <END_button><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>68</LINE></END_button>
+  <NO_press_button_5><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>67</LINE></NO_press_button_5>
+  <main><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>89</LINE></main>
+  <button_down><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>97</LINE></button_down>
+  <button_up><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>92</LINE></button_up>
+  <main2><FILE>C:\AVR_PROJECT\Project_9\Project_9.asm</FILE><LINE>108</LINE></main2>
+ </LABELS>
+</ASSEMBLER_INFO>

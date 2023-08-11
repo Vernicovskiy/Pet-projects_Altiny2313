@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\Read_from_Program\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\Read_from_Program\Read_from_Program.hex" -d "C:\AVR_PROJECT\Read_from_Program\Read_from_Program.obj" -e "C:\AVR_PROJECT\Read_from_Program\Read_from_Program.eep" -m "C:\AVR_PROJECT\Read_from_Program\Read_from_Program.map" "C:\AVR_PROJECT\Read_from_Program\Read_from_Program.asm"

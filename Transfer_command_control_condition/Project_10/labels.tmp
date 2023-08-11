@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>Unknown</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Project_10</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_10\Project_10.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Project_10\Project_10.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_10\Project_10.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <delay><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>10</LINE></delay>
+  <action_1><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>28</LINE></action_1>
+  <action_2><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>25</LINE></action_2>
+  <action_3><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>22</LINE></action_3>
+  <Ext><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>31</LINE></Ext>
+  <act_1><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>44</LINE></act_1>
+  <act_2><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>46</LINE></act_2>
+  <act_3><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>48</LINE></act_3>
+  <act_4><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>50</LINE></act_4>
+  <End_Act><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>52</LINE></End_Act>
+  <metka_too_far><FILE>C:\AVR_PROJECT\Project_10\Project_10.asm</FILE><LINE>126</LINE></metka_too_far>
+ </LABELS>
+</ASSEMBLER_INFO>

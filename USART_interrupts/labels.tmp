@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\USART_interrupts</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <mem><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>28</LINE></mem>
+  <start><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>39</LINE></start>
+  <RX_OK><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>69</LINE></RX_OK>
+  <TX_OK><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>79</LINE></TX_OK>
+  <main><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>65</LINE></main>
+  <Translate><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>75</LINE></Translate>
+  <End_Tx><FILE>C:\AVR_PROJECT\USART_interrupts\USART_interrupts.asm</FILE><LINE>85</LINE></End_Tx>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,16 @@
+
+AVRASM ver. 2.1.42  C:\AVR_PROJECT\Project_10\Project_10.asm Mon Jul 29 00:36:44 2013
+
+
+DEF  temp         r16
+CSEG delay        00000001
+CSEG action_1     0000000b
+CSEG action_2     00000009
+CSEG action_3     00000007
+CSEG Ext          0000000c
+CSEG act_1        00000015
+CSEG act_2        00000017
+CSEG act_3        00000019
+CSEG act_4        0000001b
+CSEG End_Act      0000001c
+CSEG metka_too_far 0000005d

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Encoder</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Encoder\Encoder.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Encoder\Encoder.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Encoder\Encoder.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>36</LINE></start>
+  <main><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>60</LINE></main>
+  <Encoder><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>77</LINE></Encoder>
+  <Message><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>65</LINE></Message>
+  <Send_Mes><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>72</LINE></Send_Mes>
+  <out_com><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>102</LINE></out_com>
+  <No_Neutral><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>83</LINE></No_Neutral>
+  <Run><FILE>C:\AVR_PROJECT\Encoder\Encoder.asm</FILE><LINE>91</LINE></Run>
+ </LABELS>
+</ASSEMBLER_INFO>

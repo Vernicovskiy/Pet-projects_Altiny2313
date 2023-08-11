@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "c:\AVR_PROJECT\Analog_Comporator\labels.tmp" -fI -W+ie -C V2 -o "c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.hex" -d "c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.obj" -e "c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.eep" -m "c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.map" "c:\AVR_PROJECT\Analog_Comporator\Analog_Comporator.asm"

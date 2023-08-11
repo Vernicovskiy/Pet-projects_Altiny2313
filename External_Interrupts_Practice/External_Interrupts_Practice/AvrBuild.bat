@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\External_Interrupts_Practice\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.hex" -d "C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.obj" -e "C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.eep" -m "C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.map" "C:\AVR_PROJECT\External_Interrupts_Practice\External_Interrupts_Practice.asm"

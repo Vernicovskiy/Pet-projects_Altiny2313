@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Dynamic_display</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>59</LINE></init>
+  <T1_match_A><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>163</LINE></T1_match_A>
+  <MAIN><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>117</LINE></MAIN>
+  <klav><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>145</LINE></klav>
+  <Count_Up><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>123</LINE></Count_Up>
+  <Exit><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>124</LINE></Exit>
+  <delay><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>154</LINE></delay>
+  <Dyn_ind><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>172</LINE></Dyn_ind>
+  <Table_code><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>217</LINE></Table_code>
+  <D1><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>200</LINE></D1>
+  <D2><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>197</LINE></D2>
+  <D3><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>194</LINE></D3>
+  <D4><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>191</LINE></D4>
+  <DD><FILE>C:\AVR_PROJECT\Dynamic_display\Dynamic_display.asm</FILE><LINE>203</LINE></DD>
+ </LABELS>
+</ASSEMBLER_INFO>

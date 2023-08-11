@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Project_12</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_12\Project_12.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Project_12\Project_12.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Project_12\Project_12.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <delay><FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</FILE><LINE>96</LINE></delay>
+  <MAIN><FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</FILE><LINE>79</LINE></MAIN>
+  <m1><FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</FILE><LINE>85</LINE></m1>
+  <d1><FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</FILE><LINE>97</LINE></d1>
+  <d2><FILE>C:\AVR_PROJECT\Project_12\Project_12.asm</FILE><LINE>98</LINE></d2>
+ </LABELS>
+</ASSEMBLER_INFO>

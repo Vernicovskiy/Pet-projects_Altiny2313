@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR_PROJECT\Stack_and_Subroutines</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <sub_1><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>109</LINE></sub_1>
+  <Pr_3><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>83</LINE></Pr_3>
+  <m5><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>120</LINE></m5>
+  <m1><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>54</LINE></m1>
+  <m2><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>70</LINE></m2>
+  <Pr_1><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>81</LINE></Pr_1>
+  <Prog_1><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>86</LINE></Prog_1>
+  <Pr_2><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>82</LINE></Pr_2>
+  <Prog_2><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>90</LINE></Prog_2>
+  <Prog_3><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>95</LINE></Prog_3>
+  <m3><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>101</LINE></m3>
+  <m4><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>114</LINE></m4>
+  <m6><FILE>C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm</FILE><LINE>122</LINE></m6>
+ </LABELS>
+</ASSEMBLER_INFO>

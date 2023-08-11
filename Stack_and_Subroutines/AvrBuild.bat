@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR_PROJECT\Stack_and_Subroutines\labels.tmp" -fI -W+ie -C V2 -o "C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.hex" -d "C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.obj" -e "C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.eep" -m "C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.map" "C:\AVR_PROJECT\Stack_and_Subroutines\Stack_and_Subroutines.asm"
